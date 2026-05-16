@@ -8,8 +8,6 @@
     />
   </p>
 
-  <br />
-
   <p align="center">
     <img
       src="https://streak-stats.demolab.com?user=AldenCoder&theme=highcontrast&card_width=760"
